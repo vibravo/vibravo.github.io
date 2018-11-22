@@ -40,13 +40,25 @@ p {
   left: 420px;
   padding-bottom: 40px;
 }
+#sketch6css {
+  position: absolute;
+  top: -250px;
+  left: 840px;
+}
 #biocss {
   position: absolute;
   top: -920px;
   left: 840px;
 }
-#sketch6css {
-  position: absolute;
-  top: -250px;
-  left: 840px;
+#bio-name{
+  position: relative;
+  top: -420px;
+  text-align: center;
+}
+#bio-text{
+  position: relative;
+  top: -420px;
+  text-align: left;
+  margin-right:35px;
+  margin-left:35px;
 }
