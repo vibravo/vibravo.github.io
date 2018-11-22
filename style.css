@@ -1,5 +1,5 @@
 #nametext {
-	color: #2f1962;
+	  color: #2f1962;
     text-align: center;
     font-size: 8em;
     font-family: 'Rock Salt', cursive;
@@ -12,31 +12,41 @@ p {
 	line-height: 200%;
 }
 #sketch1css {
- position: relative;
-  top: 0px;
+ position: absolute;
+  top: 320px;
   left: 40px;
 }
 #sketch2css {
  position: relative;
-  top: 40px;
+  top: 550px;
   left: 40px;
 
 }
 #sketch3css {
  position: relative;
-  top: -315px;
-  left: 364px;
+  top: 195px;
+  left: 455px;
 
 }
 #sketch4css {
- position: relative;
-  top: -307px;
+ position: absolute;
+  top: 1250px;
   left: 40px;
 
 }
 #sketch5css {
- position: relative;
-  top: -355px;
-  left: 324px;
-
+ position: absolute;
+  top: 0px;
+  left: 420px;
+  padding-bottom: 40px;
+}
+#biocss {
+  position: absolute;
+  top: -920px;
+  left: 840px;
+}
+#sketch6css {
+  position: absolute;
+  top: -250px;
+  left: 840px;
 }
