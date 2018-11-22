@@ -50,15 +50,15 @@ p {
   top: -920px;
   left: 840px;
 }
-#bio-name{
+#bio-name {
   position: relative;
   top: -420px;
   text-align: center;
 }
-#bio-text{
+#bio-text {
   position: relative;
   top: -420px;
   text-align: left;
-  margin-right:35px;
-  margin-left:35px;
+  margin-right: 35px;
+  margin-left: 35px;
 }
